@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 function menu() {
     return (
         <div className='p-1'>
-            <nav class="border-b-2 border-gray-300 relative">
+            <nav class="border-b-2 border-gray-100 relative">
                 <div class="container flex flex-row justify-between items-center py-2">
 
                     <menu class="lg:w-[55%] md:w-[65%] w-[75%] hidden sm:block">

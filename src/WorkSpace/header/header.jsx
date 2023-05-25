@@ -13,7 +13,7 @@ function header() {
                 </div>
             </header>
 
-            <div className='line border-b-2 border-gray-300'></div>
+            <div className='line border-b-2 border-gray-100'></div>
         </div>
     );
 }

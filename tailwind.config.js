@@ -6,7 +6,11 @@ module.exports = {
   ],
 
   theme: {
-    extend: {},
+    extend: {
+      screens: {
+        'smm': {'min': '340px', 'max': '640px'},
+      },
+    },
     container: {
       center: true,
       padding: {

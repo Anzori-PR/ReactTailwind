@@ -5,3 +5,7 @@
 .bg {
     background-image: url(./img/garderobi.jpg);
 }
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px;
+}

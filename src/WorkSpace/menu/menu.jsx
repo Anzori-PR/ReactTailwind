@@ -38,7 +38,6 @@ function menu() {
 
                     <span class="busket relative float-right">
                         <li class="fa-solid text-xl fa-cart-shopping cursor-pointer"></li>
-                        <FontAwesomeIcon icon="home" />
                     </span>
 
                 </div>

@@ -27,7 +27,7 @@ export default[
         "id": 5,
         "image": "./image/shoes.jpg",
         "name": "Product 5",
-        "price": "17$"
+        "price": "555$"
     },
     {
         "id": 6,
@@ -38,19 +38,37 @@ export default[
     {
         "id": 7,
         "image": "./image/shoes.jpg",
-        "name": "Product 5",
+        "name": "Product 7",
         "price": "17$"
     },
     {
         "id": 8,
         "image": "./image/shoes.jpg",
-        "name": "Product 5",
+        "name": "Product 8",
         "price": "17$"
     },
     {
         "id": 9,
         "image": "./image/shoes.jpg",
-        "name": "Product 5",
-        "price": "17$"
-    }
+        "name": "Product 9",
+        "price": "777$"
+    },
+    {
+        "id": 10,
+        "image": "./image/shoes.jpg",
+        "name": "Product 10",
+        "price": "10$"
+    },
+    {
+        "id": 11,
+        "image": "./image/shoes.jpg",
+        "name": "Product 11",
+        "price": "1$"
+    },
+    {
+        "id": 12,
+        "image": "./image/shoes.jpg",
+        "name": "Product 12",
+        "price": "$999"
+    },
 ]

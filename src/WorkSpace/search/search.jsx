@@ -10,14 +10,14 @@ function search() {
                         შეცვალეთ გარდერობი. <br className='hidden lg:block' /> <br className='hidden lg:block' /> იპოვეთ საინტერესო საქონელი.
                     </p>
 
-                    <form className='container w-[75%]'>
+                    <form className='container w-[75%] text-black'>
                         <div className='relative'>
                             <div className='absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none'>
                                 <li className='fa-solid fa-search text-lg font-semibold text-gray-400'></li>
                             </div>
                             <input type='search' id='default-search' className='block w-full p-4 pl-10 outline-none text-sm text-gray-900 border border-gray-300 rounded-3xl placeholder:text-[12px]' placeholder='What are you looking for?' required />
                             <button type='submit' className='text-white absolute right-2.5 bottom-2.5 bg-cyan-500 hover:bg-cyan-600 focus:outline-none font-medium rounded-full text-sm px-3 py-1.5'>
-                                <li className='fas fa-arrow-right'></li>
+                                <li className='fas fa-arrow-right '></li>
                             </button>
                         </div>
                     </form>

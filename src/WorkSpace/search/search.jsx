@@ -5,7 +5,7 @@ function search() {
     return (
         <div classNameName='p-1'>
             <section className='container py-5'>
-                <div className='xl:h-[512px] lg:h-[410px] md:h-[322px] sm:h-[264px] h-[41vh] bg-cover bg-center  sm:bg-contain bg-no-repeat rounded-3xl bg-[url(./img/garderobi.jpg)]'>
+                <div className='xl:h-[512px] lg:h-[410px] md:h-[322px] sm:h-[264px] h-[41vh] bg-cover bg-center bg-no-repeat rounded-3xl bg-[url(./img/garderobi.jpg)]'>
                     <p className='flex justify-center items-center text-center px-2 xl:text-[40px] lg:text-3xl md:text-3xl sm:text-2xl text-[1rem] text-black font-bold h-[50%]'>
                         შეცვალეთ გარდერობი. <br className='hidden lg:block' /> <br className='hidden lg:block' /> იპოვეთ საინტერესო საქონელი.
                     </p>

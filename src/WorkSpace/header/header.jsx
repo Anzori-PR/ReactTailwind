@@ -1,6 +1,6 @@
 import React from 'react';
 
-function header({ openRegistration }) {
+function header({ openRegistration, openSignin}) {
     return (
         <div className='p-1'>
             <header className='container flex flex-row justify-between py-4'>
@@ -9,7 +9,7 @@ function header({ openRegistration }) {
                 </div>
                 <div className='register flex row items-center'>
                     <div className='cursor-pointer no-underline button border-black border-2 bg-white text-black rounded-3xl p-1 px-2 text-xs md:text-sm lg:text-sm mx-3' onClick={openRegistration}>რეგისტრაცია</div>
-                    <div className='cursor-pointer no-underline button border-black border-2 bg-black text-white rounded-3xl p-1 px-4 text-xs md:text-sm lg:text-sm'>შესვლა</div>
+                    <div className='cursor-pointer no-underline button border-black border-2 bg-black text-white rounded-3xl p-1 px-4 text-xs md:text-sm lg:text-sm' onClick={openSignin}>შესვლა</div>
                 </div>
             </header>
 

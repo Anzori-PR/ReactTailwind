@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .bg {
-    background-image: url(./img/garderobi.jpg);
+  background-image: url(./image/garderobi.jpg);
 }
 
 .custom-scrollbar::-webkit-scrollbar {

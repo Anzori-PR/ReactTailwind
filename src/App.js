@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
+import './index.css';
 import Header from './WorkSpace/header/header';
 import Menu from './WorkSpace/menu/menu';
 import Search from './WorkSpace/search/search';
